@@ -12,3 +12,6 @@ A saída do programa deve incluir:
 1. O consumo total de dados móveis em MB ao longo do mês.
 2. A média semanal de consumo de dados móveis.
 3. A semana de maior consumo (considerando o primeiro valor como o da semana 1).
+
+## Exemplos
+A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
