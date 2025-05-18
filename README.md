@@ -18,10 +18,6 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 
 | Entrada |	Saída |
 |---------|-------|
-|2064,4000,2000,3200 |	Total mensal: 11264 MB Media semanal: 2816 MB Maior consumo: Semana 2|
-5000,4880,4600,6000	Total mensal: 20480 MB
-Media semanal: 5120 MB
-Maior consumo: Semana 4
-4000,4456,6000,5000	Total mensal: 19456 MB
-Media semanal: 4864 MB
-Maior consumo: Semana 3
+|2064,4000,2000,3200 |	Total mensal: 11264 MB Media semanal: 2816 MB Maior consumo: Semana 2 |
+| 5000,4880,4600,6000 |	Total mensal: 20480 MB Media semanal: 5120 MB Maior consumo: Semana 4 |
+|4000,4456,6000,5000	| Total mensal: 19456 MB Media semanal: 4864 MB Maior consumo: Semana 3 |
